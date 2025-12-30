@@ -1,1 +1,9 @@
-Add package.json for Render deployment
+{
+  "name": "fiillthy14",
+  "version": "1.0.0",
+  "main": "Index.js",
+  "scripts": {
+    "start": "node Index.js"
+  },
+  "dependencies": {}
+}
