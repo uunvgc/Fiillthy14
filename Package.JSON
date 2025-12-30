@@ -6,4 +6,14 @@
     "start": "node index.js"
   },
   "dependencies": {}
+
 }
+"scripts": {
+  "start": "node index.js",
+  "dev": "nodemon index.js"
+"dependencies": {
+  "express": "^4.18.2"
+}npm install express
+"author": "Your Name",
+"license": "MIT",
+"description": "A brief description of your project"
